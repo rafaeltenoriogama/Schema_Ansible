@@ -1,12 +1,10 @@
 # Ansible Schema Registry Management
 
-<img align="left" src="./imgs/readme_img.jpeg" alt="Ansible project image" width="300" style="margin-right: 20px">
+<img align="left" src="./imgs/readme_img.jpeg" alt="Ansible project image" width="300" style="margin-right: 20px; margin-bottom: 50px">
 
 A project with Ansible to deal with Schema Registry's on Apache Kafka.
 
 The world of DevOps/SysAdmin and Software Engineers revolves around automation, and this project is made for just that!
-
----
 
 ## Overview
 
